@@ -1,5 +1,7 @@
 # Universe Database for Power Electronics
 
+## Sprawl information from website, pdfs, etc...
+
 ## Power Semiconductors Basic Features
 When developing power converters or power systems, the features of power semiconductors are important. 
 However, if we look into all the products on the shelf, the ways to obtain their key characteristics are overwhelmingly various. 
